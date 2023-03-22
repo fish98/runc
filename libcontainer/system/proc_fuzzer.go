@@ -1,13 +1,7 @@
 package system
 
 import (
-	// "errors"
-	// "math/bits"
-	// "os"
-	// "reflect"
-	// "strconv"
 	"strings"
-	// "testing"
 )
 
 func FuzzParseStat(data []byte) int {
